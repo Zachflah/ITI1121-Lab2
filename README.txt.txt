@@ -1,7 +1,6 @@
-Student name: Zachary Flahaut
-Student number: 30056316
-Course code: ITI1121 
-Lab section: Z-01
+ITI1121lLab 2
+
+Read lab description to better understand what the goal of each class is.
 
 This archive contains the 5 files of the lab 1, that is,
 1. this file (README.txt),
